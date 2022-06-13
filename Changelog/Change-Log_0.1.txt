@@ -1,0 +1,39 @@
+V.0.1
+Date:09-05-2021 
+Typo issue in Sparic Laravel, updated.
+----------------------------------------------------------------------------------------
+LTR"
+
+TimeLine Routing issue in web.php file (Import class name typo error)
+
+Previous routing code: (issue)
+Line No: 99
+use App\Http\Livewire\Timeline; at Path:- ltr/routes/web.php
+
+
+Updated routing code:(fixed)
+Line No: 99
+use App\Http\Livewire\TimeLine; at Path:- ltr/routes/web.php
+
+Please replace the "Previous routing code" with "Updated routing code" as shown above at line no: 99
+
+*********************************************************************************************************************
+
+Date:09-05-2021
+
+RTL:
+
+Typo issue in Sparic Laravel, updated.
+
+TimeLine Routing issue in web.php file (Import class name typo error)
+
+Previous routing code: (issue)
+Line No: 99
+use App\Http\Livewire\Timeline; at Path:- ltr/routes/web.php
+
+
+Updated routing code: (fixed)
+Line No: 99
+use App\Http\Livewire\TimeLine; at Path:- ltr/routes/web.php
+
+Please replace the "Previous routing code" with "Updated routing code" as shown above at line no: 99
